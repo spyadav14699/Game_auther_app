@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "id": 1
+    },
+    {
+      "gamename": "fdbgxdf",
+      "gameauthor": "bxdb",
+      "gameprice": "655",
+      "gametags": "cxbxcb",
+      "forkids": "false",
+      "gamedesc": "xfbdfb",
+      "gamerating": "4",
+      "id": 2
+    },
+    {
+      "gamename": "game",
+      "gameauthor": "surya",
+      "gameprice": "54",
+      "gametags": "sdcs",
+      "forkids": "true",
+      "gamedesc": "dsvdvdv",
+      "gamerating": "4",
+      "id": 3
+    }
+  ]
+}
